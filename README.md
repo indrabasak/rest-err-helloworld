@@ -5,6 +5,9 @@ Rest Error Hello World
 This is  a simple example for error handling in a REST service. This is the continuation of the previous 
 [REST Hello World Example](https://github.com/indrabasak/rest-helloworld).
 
+If you are interested in knowing more about this project, you can find it in my blog 
+['REST API and Error Handling'](https://indrabasak.wordpress.com/2016/04/06/rest-api-and-error-handling/).
+
 # Build
 Execute the following command from the parent directory to compile the project:
 
@@ -55,10 +58,6 @@ Expected Result
     <message>Customer not found - Customer with id 10 not found.</message>
 </errorInfo>
 ```
-
-If you are interested in knowing more about this project, you can find in my blog 
-['REST API and Error Handling'](https://indrabasak.wordpress.com/2016/04/06/rest-api-and-error-handling/).
-
 
 [travis-badge]: https://travis-ci.org/indrabasak/rest-err-helloworld.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/indrabasak/rest-err-helloworld/
